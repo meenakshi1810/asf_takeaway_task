@@ -28,7 +28,7 @@ To run the notebook, you’ll need:
 
 ---
 
-📊 Key Insights
+## 📊 Key Insights
 - Household conditions vary widely: some score near 1.0, others near 0.0.
 - Education (school attendance) is consistently high, showing strong community value for schooling.
 - Sanitation and clean cooking fuel are critical gaps — median scores are 0, meaning half of households lack access.
